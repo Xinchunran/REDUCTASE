@@ -19,6 +19,9 @@ This is the repo for Machine learning and Deep Learning tutorial
 
 1. Kaggle: https://www.kaggle.com/c/imagenet-object-localization-challenge/overview/description
 
+For this week we will study some materials with machine learning. The code and datasets is from chem5410 and from the 
 
-
+```bash
+ssh git@github.com:allie-walker/Lab12.git
+```
 
