@@ -25,3 +25,9 @@ For this week we will study some materials with machine learning. The code and d
 ssh git@github.com:allie-walker/Lab12.git
 ```
 
+Homework March 25
+
+https://colab.research.google.com/drive/1jUORhPwPZZvf0-MZi3P8JOId_o-TUlWC#scrollTo=OPh0DkC34A0-
+
+
+
